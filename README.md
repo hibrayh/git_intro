@@ -1,1 +1,2 @@
-"Hailee Hibray" 
+Hailee Hibray 
+hibrayh@oregonstate.edu
